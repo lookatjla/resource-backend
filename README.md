@@ -1,5 +1,7 @@
 ### Resource (backend)
-Resource is a blog that reviews restaurants around Atlanta.
+Resource is somewhat of a notepad for blog ideas. Whenever a good idea strikes, users can record their ideas in the app, including the potential blog's title, an image, and the body.
+
+This app is a part of an upcoming blog titled Resource Blog.
 
 ### Technologies Used
 - Express
